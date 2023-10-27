@@ -5,3 +5,4 @@ urlpatterns = [
     path('', views.index, name="index"),
     path('Details/', views.Details, name='Details')
 ]
+
