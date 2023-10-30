@@ -1,0 +1,16 @@
+ .navbar{
+  text-align: center;
+  font-color: red;
+}
+
+body {
+background-color: #b15eff;
+}
+.card {
+background-color: white;
+
+}
+.card-title {
+font-size: 20px;
+}
+
